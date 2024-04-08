@@ -1,5 +1,5 @@
 <h1 align="center">Hola! Me llamo Marc y este es mi perfil!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Spain</h3>
 
 - 🌱 I’m currently learning **Big Data and AI**
 
